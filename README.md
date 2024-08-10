@@ -13,7 +13,8 @@ I'm a dedicated software developer with a passion for Web development and Linux 
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  **Mobile Development:** ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+
+- **Mobile Development:** ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
 - **Databases:**
