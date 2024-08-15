@@ -52,7 +52,7 @@ I'm a dedicated software developer with a passion for Web development and Linux 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="http://random-dev-memes-php.infinityfreeapp.com/?i=1" width="512px"/>
 
 ---
 
